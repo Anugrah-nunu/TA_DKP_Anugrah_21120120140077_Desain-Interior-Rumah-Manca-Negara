@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    font-family: Georgia;
+    padding: 0px;
+    background:url(Foto/BG_Login2.jpg);
+    background-size: 100%;
+}
+
+.card {
+    font-family: Georgia;
+    margin-top: 140px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background: url(Foto/Logo2.png) no-repeat;
+    background-color: rgba(255, 255, 255, 0.507);
+    background-size: 100%;
+    background-position-y: 70px;
+}
+
+.card h1 {
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 190px;
+}
+
+.card form {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.card form button {
+    margin: 15px;
+    margin-left: 136px;
+    font-size: 20px;
+}
+
+.card form label {
+    font-family: Arial;
+    padding-bottom: 10px;
+}
+
+.card form input {
+    width: 320px;
+    padding-left: 3px;
+}
